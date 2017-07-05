@@ -1,14 +1,9 @@
 +++
-title = ""
+categories = [""]
 date = ""
 slug = ""
-tags = [
-""
-]
-categories = [
-""
-]
-draft = true
-+++
+tags = [""]
+title = ""
 
++++
 I've honestly felt better after meditating. '
