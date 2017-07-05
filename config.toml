@@ -1,0 +1,43 @@
+baseurl = "https:/kalispera.netlify.com/"
+languageCode = "en-us"
+title = "Kalispera"
+theme = "hugo-steam-theme"
+disqusShortname = "kalispera"
+paginate = 7
+
+[taxonomies]
+
+tag = "tags"
+
+[params]
+
+	title = "Kalispera"
+	subtitle = " A blog about science, art, and society."
+	copyright = "[theme](https://github.com/digitalcraftsman/hugo-steam-theme) | [hugo](https://gohugo.io/) | [netlify](https://www.netlify.com/)"
+
+	# You can choose between green, orange, red and blue.
+	themeColor = "blue"
+	# Enable Google Analytics be inserting your tracking code
+	googleAnalytics = ""
+
+	# To provide some metadata for search engines and the about section in the footer
+	# feel free to add a few information about you and your website.
+	name = "Aky"
+	bio = "Runner -  Artist-  Writer- Nature & Coffee lover"
+	description = "Blog about science, art, technology, issues, and society"
+	location = "US"
+	twitter = ""
+	github = ""
+	instagram = "astrikos.art"
+
+	# Enable a comment system
+	# You can choose between Disqus or Google Plus by setting comments
+	# to disqus or googleplus. For using Disqus you need to enter your
+	# shortname in disqusShortname at the top of the configs. 
+	comments = "disqus"
+
+	# Customize or translate the strings
+	keepReadingStr = "Keep reading"
+	backtotopStr = "Back to top"
+	shareStr = "Share"
+	pageNotFoundTitle = "404 - Page not found"
