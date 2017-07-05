@@ -1,4 +1,4 @@
-baseurl = "https:/kalispera.netlify.com/"
+baseURL = "https://kalispera.netlify.com"
 languageCode = "en-us"
 title = "Kalispera"
 theme = "hugo-steam-theme"
