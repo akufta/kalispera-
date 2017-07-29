@@ -1,15 +1,13 @@
 +++
 categories = ["technology", "life"]
 date = "2017-07-05T15:55:00-05:00"
-
+draft = true
 slug = "best-meditation-app"
 tags = ["", "wellness", "fitness", "mindfulness", "meditation", "focus", "technology", "apps"]
 title = "Best Meditation App"
 type = "default"
 
 +++
-
-
 <span style="color: rgb(25, 25, 25); font-size: 1rem;">I love meditation. Over time, regular practice has reduced stress (summer helps as well!) and worry and increased focus and mental resilience.</span>
 
 <span style="font-size: 1rem;">What's nice about meditation is that it's easy to pick up. You only need to sit down, set a timer, and focus. There are&nbsp;</span>several<span style="font-size: 1rem;">&nbsp;ways to meditate, but I find the most useful for me personally is to just observe your thoughts–not trying to push them away or follow them. It makes it less stressful than trying to forcibly clear your mind, which for me, often fails and has me thinking about what I was trying not to think about even harder!</span>
