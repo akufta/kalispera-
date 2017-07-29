@@ -1,13 +1,30 @@
 baseurl = "https://kalispera.netlify.com/"
-languageCode = "en-us"
-title = "Kalispera"
-theme = "hugo-steam-theme"
 disqusShortname = "kalispera"
+languageCode = "en-us"
 paginate = 7
-
+theme = "hugo-steam-theme"
+title = "Kalispera"
+[params]
+backtotopstr = "Back to top"
+bio = "Runner -  Artist-  Writer- Nature & Coffee lover"
+comments = "disqus"
+copyright = "[theme](https://github.com/digitalcraftsman/hugo-steam-theme) | [hugo](https://gohugo.io/) | [netlify](https://www.netlify.com/)"
+description = "Blog about science, art, technology, issues, and society"
+github = ""
+googleanalytics = ""
+instagram = ""
+keepreadingstr = "Keep reading"
+location = "US"
+name = "Aky"
+pagenotfoundtitle = "404 - Page not found"
+sharestr = "Share"
+subtitle = " A blog about science, art, and society."
+themecolor = "blue"
+title = "Kalispera"
+twitter = ""
 [taxonomies]
-
 tag = "tags"
+<<<<<<< HEAD
 
 [params]
 
@@ -42,4 +59,6 @@ tag = "tags"
 	shareStr = "Share"
 	pageNotFoundTitle = "404 - Page not found"
 
-	addThis = "ra-597ca2fc533be542"
+	
+=======
+>>>>>>> ad93534e89139f1e6acc05df1abcf80e4f74bfa7
