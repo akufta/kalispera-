@@ -1,7 +1,8 @@
 +++
 categories = ["productivity", "technology"]
-tags = ["", "productivity", "apps", "recommendations", "masterpost", "workflow", "programs"]
+tags = ["productivity", "apps", "recommendations", "masterpost", "workflow", "programs"]
 title = "Boost Your Workflow– Favorite Productivity Apps"
+
 +++
 **Passwords**
 
