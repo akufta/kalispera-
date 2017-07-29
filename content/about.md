@@ -1,13 +1,13 @@
 +++
 categories = []
 date = "2015-09-15T20:05:43+02:00"
-menu = ""
+menu = "about"
 slug = ""
 tags = []
 title = "About"
-type = "default"
+type = "custom-page"
 undefined = ""
-url = ""
+url = "about/"
 
 +++
 
