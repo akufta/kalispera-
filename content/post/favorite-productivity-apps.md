@@ -17,7 +17,7 @@ undefined = ""
 
 * * Alternatives: Lastpass, Keepass ( using currently), 1Password (haven’t used, have heard good reviews)
 
-**Organization ** - You can do this with note taking apps, but these do have slightly different approaches.
+**Organization** - You can do this with note taking apps, but these do have slightly different approaches.
 
 * [airtable-](https://airtable.com) amazing program that allows you to make relational databases /spread sheets that can be viewed in several different ways(including kanban). You can add rich content as well. Honestly amazing
 
@@ -39,15 +39,13 @@ undefined = ""
 
 * [Todoist](https://en.todoist.com/) / [wunderlist](https://www.wunderlist.com/) recommended To-Do list apps. I like plan.co enough that I don't use another todo list app. It's helpful to consolidate services if you can.
 
-* **[google calendar](http://calendar.google.com)-** there are others like Apple’s built in calendar, TimePage by Moleskine, etc. Have tried & enjoyed google calendars, haven’t tried too many others. A lot of alternatives sync to google calendar, which is nice.
-
-* * Fecommended mobile apps that integrate with calendar web services: Calendars 5 (tried, like) & Fantastical 2(have not tried, has great reviews)
+*
 
 **Note Taking**
 
 * [Typora ](http://t.umblr.com/redirect?z=https%3A%2F%2Fwww.typora.io&t=NWVhOTU1NDI5Y2E5NDIwYmViMjdjNGUwYjliOGE1N2QxM2EwZjliZSxBWXBMdGpadA%3D%3D&b=t%3AgNrt7AayYkimRbElvYpsXg&p=https%3A%2F%2Fthoughtseek.tumblr.com%2Fpost%2F161638029252%2Fthoughtseeks-note-taking-organization-programs&m=1)- beautiful markdown editor with inline styling. Free in beta (Windows/Mac/Linux). I adore this app. Minimal, clean, many functions that stay out of your way.
 
-* **[Treesheets](http://strlen.com/treesheets/) **- free open source program that is “ ultimate replacement for spreadsheets, mind mappers, outliners, PIMS, text editors, and small databases” I *love* this program for organizing. I’ve tried a ton of things so far, but this is so flexible and well designed, though there is a bit of a learning curve. I’m a really visual person, so emacs orgmode isn’t really for me, but this is
+* [Treesheets](http://strlen.com/treesheets/) - free open source program that is “ ultimate replacement for spreadsheets, mind mappers, outliners, PIMS, text editors, and small databases” I *love* this program for organizing. I’ve tried a ton of things so far, but this is so flexible and well designed, though there is a bit of a learning curve. I’m a really visual person, so emacs orgmode isn’t really for me, but this is
 
 * [dynalist](https://dynalist.io/)// [workflowy](https://workflowy.com/)- really neat expanding outline/notes program. Free!
 
@@ -77,7 +75,7 @@ This category falls under notetaking & organization to some extent, but is prett
 
 * [mindnode](https://mindnode.com) - recommended, paid. Mac.
 
-**To Try **
+**To Try **
 
 * [paperwork](http://paperwork.rocks/) - open source/free
 
