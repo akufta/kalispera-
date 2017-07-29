@@ -6,6 +6,13 @@ url = "about/"
 [menu.main]
 
 +++
-Aky: runner - artist & writer - nature & coffee lover
 
-Kalispera means good afternoon in Greek.
+
+(Kalispera means good afternoon in Greek)
+
+Hi there, I like to create, read, learn run, and drink coffee & tea.
+
+This is a place for my thoughts on productivity, art, science, and technology.
+
+Thanks for visiting!
+
