@@ -4,7 +4,8 @@ title = "About"
 type = "page"
 
 +++
+
+
 Aky: runner - artist & writer - nature & coffee lover
-Kalispera: good afternoon in Greek.
 
-
+Kalispera means good afternoon in Greek.
