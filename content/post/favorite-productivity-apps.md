@@ -1,11 +1,7 @@
 +++
 categories = ["productivity", "technology"]
-date = "2017-07-29T09:05:27Z"
-slug = "productivity apps"
 tags = ["", "productivity", "apps", "recommendations", "masterpost", "workflow", "programs"]
 title = "Boost Your Workflow– Favorite Productivity Apps"
-undefined = ""
-
 +++
 **Passwords**
 
