@@ -8,6 +8,7 @@ type = "custom-page"
 undefined = ""
 url = "about/"
 [menu.about]
+name = "Menu"
 weight = 1
 
 +++
