@@ -1,6 +1,6 @@
 +++
 date = "2017-07-29T10:59:37+00:00"
-menu = "menu"
+menu = "main"
 title = "About"
 url = "about/"
 
