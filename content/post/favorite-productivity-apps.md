@@ -1,5 +1,7 @@
 +++
 categories = ["productivity", "technology"]
+date = ""
+slug = ""
 tags = ["productivity", "apps", "recommendations", "masterpost", "workflow", "programs"]
 title = "Boost Your Workflow– Favorite Productivity Apps"
 
