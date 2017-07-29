@@ -1,6 +1,6 @@
 +++
 categories = ["technology", "life", "wellness"]
-date = "2017-07-29T00:00:00-05:00"
+date = "2017-07-23T00:00:00-05:00"
 slug = "meditation apps"
 tags = ["", "wellness", "fitness", "mindfulness", "meditation", "focus", "technology", "apps"]
 title = "Best Meditation App"
