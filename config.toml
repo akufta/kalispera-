@@ -1,4 +1,4 @@
-baseurl = "http://kalispera.netlify.com/"
+baseurl = "https://kalispera.netlify.com/"
 disqusShortname = "kalispera"
 languageCode = "en-us"
 paginate = 7
