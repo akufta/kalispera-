@@ -1,14 +1,12 @@
 +++
 categories = ["productivity", "technology"]
-date = "2017-07-29T09:05:27+00:00"
+date = "2017-07-29T09:05:27Z"
 slug = "productivity apps"
 tags = ["", "productivity", "apps", "recommendations", "masterpost", "workflow", "programs"]
 title = "Boost Your Workflow– Favorite Productivity Apps"
 undefined = ""
 
 +++
-
-
 **Passwords**
 
 * [Bitwarden](https://bitwarden.com)- I currently recommend this one. Free & Open Source

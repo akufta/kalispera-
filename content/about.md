@@ -1,17 +1,10 @@
 +++
-categories = []
-date = "2015-09-15T20:05:43+02:00"
-menu = "main"
-slug = ""
-tags = []
+date ="2017-07-29"
 title = "About"
-type = "custom-page"
-undefined = ""
+menu  = "main"
 url = "about/"
 
 +++
-
-
 Aky: runner - artist & writer - nature & coffee lover
 
 Kalispera means good afternoon in Greek.
