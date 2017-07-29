@@ -1,7 +1,7 @@
 +++
 date = "2017-07-29T11:19:52+00:00"
 menu = "main"
-title = "art"
+title = "Art"
 url = "art"
 
 +++
