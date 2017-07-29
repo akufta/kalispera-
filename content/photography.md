@@ -15,3 +15,4 @@ If you are interested in viewing some of my art:
 
 [flickr](https://www.flickr.com/photos/allisonkufta)
 
+I'd love to see your creations as well! Feel free to contact me on one of these platforms and I'll check out your work.
