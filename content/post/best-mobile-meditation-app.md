@@ -1,7 +1,10 @@
 +++
 categories = ["technology", "life", "wellness"]
-tags = ["", "wellness", "fitness", "mindfulness", "meditation", "focus", "technology", "apps"]
-title = "Best Meditation App"
+date = "2017-07-23T00:00:00-05:00"
+slug = "meditation apps"
+tags = ["wellness", "fitness", "mindfulness", "meditation", "focus", "technology", "apps", "mental health"]
+title = "Meditation – A Brief Guide & My Favorite Apps"
+
 +++
 <span style="color: rgb(25, 25, 25); font-size: 1rem;">I love meditation. Over time, regular practice has reduced stress (summer helps as well!) and worry and increased focus and mental resilience.</span>
 

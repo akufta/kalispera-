@@ -1,13 +1,18 @@
 +++
-date ="2017-07-29"
+date = "2017-07-29T00:00:00Z"
 title = "About"
-menu  = "main"
+type = "custom-page"
 url = "about/"
-
+[menu.main]
 
 +++
 
 
-Aky: runner - artist & writer - nature & coffee lover
+(Kalispera means good afternoon in Greek)
 
-Kalispera means good afternoon in Greek.
+Hi there, I like to create, read, learn run, and drink coffee & tea.
+
+This is a place for my thoughts on productivity, art, science, and technology.
+
+Thanks for visiting!
+
