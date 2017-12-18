@@ -2,7 +2,7 @@ baseurl = "https://kalispera.netlify.com/"
 disqusShortname = "kalispera"
 languageCode = "en-us"
 paginate = 7
-theme = "hugo-steam-theme"
+theme = "black-and-light"
 title = "Kalispera"
 [params]
 backtotopstr = "Back to top"
