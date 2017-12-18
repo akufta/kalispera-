@@ -1,0 +1,40 @@
+---
+pages:
+- post/thoughts-on-ect-and-medical-ethics.md
+- post/best-mobile-meditation-app.md
+- post/favorite-productivity-apps.md
+- post/a-project-worth-checking-out-learn-anything.md
+hide_body: false
+fields:
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default:
+  - ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: 2017-07-29 16:29:01 +0000
+- name: slug
+  label: Slug
+  type: text
+  hidden: false
+  default: ''
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default:
+  - ''
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: draft
+  label: Draft
+  type: boolean
+  hidden: false
+  default: true

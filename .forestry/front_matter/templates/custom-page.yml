@@ -1,0 +1,24 @@
+---
+pages:
+- photography.md
+- about.md
+hide_body: false
+fields:
+- type: datetime
+  name: date
+  default: 2017-07-29 15:55:13 +0000
+  label: date
+- type: textarea
+  name: title
+  label: title
+  description: type in a title
+- type: text
+  name: url
+  label: url
+  description: something/
+- type: text
+  name: menu
+  label: menu
+  description: type main
+  config:
+    required: true
