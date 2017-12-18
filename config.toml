@@ -1,9 +1,18 @@
+canonifyurls = true
+languagecode = "en"
+theme = "black-and-light"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
 baseurl = "https://kalispera.netlify.com/"
 disqusShortname = "kalispera"
 languageCode = "en-us"
 paginate = 7
-theme = "black-and-light"
+
 title = "Kalispera"
+author = "Aky"
+
 [params]
 backtotopstr = "Back to top"
 bio = "Runner -  Artist-  Writer- Nature & Coffee lover"
@@ -19,6 +28,4 @@ name = "Aky"
 pagenotfoundtitle = "404 - Page not found"
 sharestr = "Share"
 subtitle = " A blog about science, art, and society."
-themecolor = "blue"
-title = "Kalispera"
 twitter = "akufta"
