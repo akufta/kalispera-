@@ -1,8 +1,7 @@
 +++
 categories = ["impossible", "improvement"]
 date = "2017-12-28T23:57:44+00:00"
-draft = true
-slug = ""
+slug = "impossible list "
 tags = ["impossible list", "improvement", "challenge"]
 title = "Impossible List"
 
