@@ -13,7 +13,7 @@ A curated collection of useful productivity tools and ideas. I experimented, and
 
 <!--more-->
 
-<div align="center"> {{< figure src="[https://images.unsplash.com/photo-1474377207190-a7d8b3334068?auto=format&fit=crop&w=2100&q=80](https://images.unsplash.com/photo-1474377207190-a7d8b3334068?auto=format&fit=crop&w=2100&q=80 "https://images.unsplash.com/photo-1474377207190-a7d8b3334068?auto=format&fit=crop&w=2100&q=80")" link="" alt="Aesthetic productivity stock photo" >}} </div>
+<div align="center"> {{< figure src="https://images.unsplash.com/photo-1474377207190-a7d8b3334068?auto=format&fit=crop&w=2100&q=80" link="" alt="Aesthetic productivity stock photo" >}} </div>
 
 I love paper, but I also love trees and the environment. I try to save paper when I can, and sometimes that means leaving the mess (that looks like my mind) of scattered reams of paper behind. Technology, though it of course has its faults and can seem like the antithesis of productivity, has helped me figure out how to organize myself and experiment until I found a system for me.
 
