@@ -1,31 +1,40 @@
-canonifyurls = true
-languagecode = "en"
-theme = "black-and-light"
-
-pygmentsstyle       = "bw"
-pygmentscodefences  = true
-
-baseurl = "https://kalispera.netlify.com/"
-disqusShortname = "kalispera"
-languageCode = "en-us"
-paginate = 7
-
+SectionPagesMenu = "main"
+baseurl = "https://kalispera.netlify.com"
+disqusShortname = "art-res-tumblr-com"
+enableRobotsTXT = true
+footnoteReturnLinkContents = "↩"
+googleAnalytics = "UA-47550631-5"
+languageCode = "en-US"
+paginate = 10
+theme = "after-dark"
 title = "Kalispera"
-author = "Aky"
+description = "An exploration of the intersection between art and science"
+[blackfriday]
+fractions = false
+hrefTargetBlank = true
+
+[[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "Photography"
+    url = "https://500px.com/akufta"
+    weight = 2
+[[menu.main]]
+    name = "Shop"
+    url = "https://inktale.com/akufta"
+    weight = 3
+
 
 [params]
-backtotopstr = "Back to top"
-bio = "Runner -  Artist-  Writer- Nature & Coffee lover"
-comments = "disqus"
-copyright = "[theme](https://github.com/digitalcraftsman/hugo-steam-theme) | [hugo](https://gohugo.io/) | [netlify](https://www.netlify.com/)"
-description = "Blog about science, art, technology, issues, and society"
-github = "akufta"
-googleanalytics = ""
-instagram = "akufta.art/"
-keepreadingstr = "Keep reading"
-location = "US"
-name = "Aky"
-pagenotfoundtitle = "404 - Page not found"
-sharestr = "Share"
-subtitle = " A blog about science, art, and society."
-twitter = "akufta"
+author = "Aky"
+description = "A blog about science, art, and society. "
+hide_author = false
+images = ["https://source.unsplash.com/collection/1234708/2000x1322"]
+powered_by = true
+show_menu = true
+theme_variant = "standard"
+[params.seo.webmaster_verifications]   
+google = ""
