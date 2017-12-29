@@ -1,0 +1,47 @@
+---
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: text
+  hidden: false
+  default: ''
+- name: description
+  label: Description
+  type: text
+  hidden: false
+  default: ''
+- name: draft
+  label: Draft
+  type: boolean
+  hidden: false
+  default: true
+- name: toc
+  label: Toc
+  type: boolean
+  hidden: false
+  default: false
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default:
+  - category
+- name: keywords
+  label: Keywords
+  type: list
+  hidden: false
+  default:
+  - art
+  - art resource
+- name: images
+  label: Images
+  type: list
+  hidden: false
+  default:
+  - https://images.unsplash.com/photo-1505840541251-02ab21f95b45?auto=format&fit=crop&w=1216&q=80&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D

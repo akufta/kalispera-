@@ -1,9 +1,6 @@
 ---
 pages:
-- post/thoughts-on-ect-and-medical-ethics.md
-- post/best-mobile-meditation-app.md
-- post/favorite-productivity-apps.md
-- post/a-project-worth-checking-out-learn-anything.md
+- impossible-list.md
 hide_body: false
 fields:
 - name: categories
