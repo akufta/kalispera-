@@ -50,3 +50,8 @@ show_menu = true
 theme_variant = "standard"
 [params.seo.webmaster_verifications]   
 google = ""
+
+github = "akufta"
+email = "allisonkufta@gmail.com"
+linkedin = "allisonkufta"
+twitter = "akufta"
