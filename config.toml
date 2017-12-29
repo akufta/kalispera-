@@ -1,9 +1,9 @@
 SectionPagesMenu = "main"
-baseurl = "https://kalispera.netlify.com"
+baseurl = "https://kalispera.xyz/"
 disqusShortname = "art-res-tumblr-com"
 enableRobotsTXT = true
 footnoteReturnLinkContents = "↩"
-googleAnalytics = "UA-47550631-5"
+googleAnalytics = "UA-47550631-6"
 languageCode = "en-US"
 paginate = 10
 theme = "after-dark"
