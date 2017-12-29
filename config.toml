@@ -9,6 +9,7 @@ paginate = 10
 theme = "after-dark"
 title = "Kalispera"
 description = "An exploration of the intersection between art and science"
+
 [blackfriday]
 fractions = false
 hrefTargetBlank = true
@@ -18,14 +19,25 @@ hrefTargetBlank = true
     name = "Home"
     url = "/"
     weight = 1
+
+[[menu.main]]
+    name = "Portfolio"
+    url = "https://www.behance.net/allisonkufta"
+    weight = 2
+
 [[menu.main]]
     name = "Photography"
     url = "https://500px.com/akufta"
-    weight = 2
+    weight = 3
 [[menu.main]]
     name = "Shop"
     url = "https://inktale.com/akufta"
-    weight = 3
+    weight = 4
+
+[[menu.main]]
+    name = "Reading List"
+    url = "https://www.goodreads.com/user/show/31960024-allison-kufta"
+    weight = 5
 
 
 [params]
