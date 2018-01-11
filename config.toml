@@ -38,8 +38,6 @@ hrefTargetBlank = true
     name = "Reading List"
     url = "https://www.goodreads.com/user/show/31960024-allison-kufta"
     weight = 5
-
-
 [params]
 author = "AK"
 description = "A place for thoughts about life, science, art, and society. "
