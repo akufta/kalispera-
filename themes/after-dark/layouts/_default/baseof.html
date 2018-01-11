@@ -44,15 +44,18 @@
       <script async src="/js/bpgdec8.js"></script>
       <script async src="/js/bpgdec.js"></script>
     {{ end }}
-        <!-- Async font awesome, Privy and addthis -->
-        <script defer src="https://use.fontawesome.com/releases/v5.0.2/js/all.js"></script>
   </head>
   {{ $theme_variant := .Site.Params.theme_variant | default "hack dark" }}
 <body class="{{ $theme_variant }} main container"> 
 <header>{{ block "header" . }}{{ end }}</header>
-  <div class="grid">
-    <div class="cell -9of12">{{ block "main" . }}{{ end }}</div>
-     <div class="cell -3of12">{{ block "sidebar" . }}{{ end }}</div> </div> </div> 
-   <div align="center"><footer> {{ block "footer" . }}{{ end }}</footer>
+<div class="row">
+  <div class="col c9">{{ block "main" . }}{{ end }}</div> 
+   <div class="col c3">{{ block "sidebar" . }}{{ end }}</div>
+   </div>
+   <div align="center"><footer> {{ block "footer" . }}{{ end }}
+       <!-- Async font awesome, Privy and addthis -->
+       <script defer src="https://use.fontawesome.com/releases/v5.0.2/js/all.js"></script>
+
+   </footer>
   </body>
 </html>
