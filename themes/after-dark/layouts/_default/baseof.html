@@ -3,9 +3,10 @@
   <head>
     {{ .Hugo.Generator }}
     <meta charset="utf-8">
+    <meta name="HandheldFriendly" content="True">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {{ partial "seo_schema" . }}
-    <title>{{ block "title" . }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+    <title>{{ block "title" . }}{{ .Title }} | Kalispera {{ end }}</title>
     <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
     <meta name="keywords" content="{{ if .Keywords }}{{ delimit .Keywords ", " }}{{ else if and .IsPage .Params.tags }}{{ delimit .Params.tags ", " }}{{ else }}{{ range $term, $val := .Site.Taxonomies.categories }}{{ lower (humanize $term) }}, {{ end }}{{ end }}">
     <meta content="{{ delimit .Keywords ", " }}" name="keywords">
