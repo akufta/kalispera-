@@ -1,16 +1,37 @@
-{{ define "title" -}}
-  {{ .Title }} | {{ .Site.Title }}
-{{- end }}
 {{ define "header" }}
   {{ partial "menu.html" . }}
 {{ end }}
 {{ define "main" }}
-  <header>
-    <h1>{{ .Title }}</h1>
-  </header>
-  {{ .Content }}
+<article itemscope itemtype="http://schema.org/BlogPosting">
+    {{ template "_internal/schema.html" . }}
+    <div id="contentview">
+    <header>
+        <title> <h1 itemprop="headline">{{ .Title }} | Kalispera</h1></title> 
+      <p class="muted">
+        {{ partial "post/meta.html" . }}
+        <div align="center"> <div class="addthis_inline_share_toolbox"></div>
+      </p>
+    {{ partial "seo_schema.html" . }}
+    </header>
+    {{ if .Description }}
+    {{ end }}
+    {{ partial "toc-maybe.html" . }}
+    <div itemprop="articleBody">
+      {{ .Content }}
+    </div>
+    {{ if .Site.DisqusShortname }}
+      <article>
+        {{ template "_internal/disqus.html" . }}
+      </article>
+    {{ end }}
+    <footer>
+      <hr>
+      {{ partial "post/byline.html" . }}
+      {{ partial "post/related-content.html" . }}
+    </footer>
+  </article>
 {{ end }}
- {{ define "sidebar" }}
+{{ define "sidebar" }}
   {{ partial "sidebar.html" . }}
 {{ end }}
 {{ define "footer" }}
