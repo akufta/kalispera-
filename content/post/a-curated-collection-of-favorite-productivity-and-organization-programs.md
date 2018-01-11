@@ -5,11 +5,11 @@ description = "A useful collection of productivity tools and programs to increas
 images = ["https://images.unsplash.com/photo-1474377207190-a7d8b3334068?auto=format&fit=crop&w=2100&q=80"]
 keywords = ["recommendations", "technology", "programs for self improvement", "curated ", "how to be more productive", "how to be organized", "note taking programs", "note taking apps", "productivity tools", "productivity apps"]
 tags = ["tag"]
-title = "A curated collection of favorite productivity and organization tools"
+title = "Favorite productivity programs"
 toc = true
 
 +++
-A curated collection of useful productivity tools and ideas. I experimented, and here are my current recommendations. 
+A curated collection of useful productivity tools and programs. As I was freaking out in college, I  experimented a bit, and here are my current recommendations. 
 
 <!--more-->
 
